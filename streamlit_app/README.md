@@ -1,4 +1,4 @@
-# App de Extração 
+# Aplicação de Extração de Frames
 
 Aplicação desenvolvida em Streamlit que fornece uma interface gráfica através da qual é possível selecionar os frames das gravações realizadas pelas webcams.
 
